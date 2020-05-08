@@ -1,0 +1,10 @@
+/.idea
+/build
+/dist
+*.pyc
+*.pyo
+env
+.tox
+.cache/
+.idea/
+.pytest_cache/
